@@ -3,11 +3,11 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.1.4</title>
+            <title>Version 1.1.7</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Thu, 20 Oct 2022 11:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="1.1.4" sparkle:os="android" />
-            <enclosure url="https://testflight.apple.com/join/bGHY2w1F" sparkle:version="1.1.4" sparkle:os="ios" />
+            <pubDate>Thu, 11 Nov 2022 11:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="1.1.7" sparkle:os="android" />
+            <enclosure url="https://testflight.apple.com/join/bGHY2w1F" sparkle:version="1.1.7" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
