@@ -6,7 +6,7 @@
             <title>Version 1.1.55</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Thu, 08 Dec 2022 11:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="1.1.65" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="1.1.66" sparkle:os="android" />
             <enclosure url="https://testflight.apple.com/join/bGHY2w1F" sparkle:version="1.1.63" sparkle:os="ios" />
         </item>
     </channel>
