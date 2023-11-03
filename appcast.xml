@@ -6,8 +6,8 @@
             <title>Version 2.1.3</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Thu, 12 Oct 2023 14:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="2.1.3" sparkle:os="android" />
-            <enclosure url="https://testflight.apple.com/join/bGHY2w1F" sparkle:version="2.1.3" sparkle:os="ios" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.diseed.app" sparkle:version="2.1.4" sparkle:os="android" />
+            <enclosure url="https://testflight.apple.com/join/bGHY2w1F" sparkle:version="2.1.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
